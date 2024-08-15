@@ -10,10 +10,6 @@
     "repository": "https://github.com/Benchamxd/ccbot",
     "success_url": "/",
     "formation": {
-        "web": {
-            "quantity": 1,
-            "size": "free"
-        }
     },
     "image": "heroku/php"
 }
